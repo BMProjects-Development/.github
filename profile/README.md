@@ -74,5 +74,5 @@ BMP is a decentralized team of **25+ professionals** spanning across Russia, the
 
 ---
 <p align="center">
-  <i>Building the future of gaming, block by block. 🚀</i>
+  <i>Building the future of gaming, step by step. 🚀</i>
 </p>
