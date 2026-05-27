@@ -14,10 +14,10 @@ By leveraging a **"Living Service"** model, we continuously evolve our projects 
 
 | Project | Status | Platform / Versions | Description |
 | :--- | :--- | :--- | :--- |
-| **Melody of Utopia** | 🛠️ In Active Development | Minecraft (Forge/Fabric) | Our flagship project in development for over 10 months. A complete overhaul of the gameplay experience. |
-| **Endless Rise: Remastered** | ⚡ Live & Operating | CurseForge | A massive hit that reached #1 in the "Hidden Gem" category with **90,000+ downloads**. |
-| **Gloomy Rise** | ⚡ Live & Operating | Minecraft | Flagship modpack project focusing on deep progression and unique atmosphere. |
-| **Sacred Logistics** | ⚡ Live & Operating | Minecraft | Flagship project centered around advanced tech, automation, and logistics. |
+| **Melody of Utopia** | 🛠️ In Active Development | Minecraft 1.21.1 NeoForge | Our flagship project in development for over 10 months. A complete overhaul of the gameplay experience. |
+| **[Endless Rise: Remastered](https://github.com/BMProjects-Development/Endless-Rise-Remastered)** | ⚡ Live & Operating | Minecraft 1.16.5 Forge | A massive hit that reached #1 in the "Hidden Gem" category with **97,000+ downloads**. |
+| **[Gloomy Rise](https://github.com/BMProjects-Development/Gloomy-Rise)** | ⚡ Live & Operating | Minecraft 1.16.5 Forge | TechnoMagical Hardcore and RPG Modpack. |
+| **[Sacred Logistics](https://github.com/BMProjects-Development/Sacred-Logistics)** | ⚡ Live & Operating | Minecraft 1.16.5 Forge | Modpack about Technology progression with unique mechanics. |
 | **Other Projects** | 🔮 Planning & Dev | Minecraft & Hytale | We are constantly expanding our ecosystem with new immersive worlds. |
 
 ---
