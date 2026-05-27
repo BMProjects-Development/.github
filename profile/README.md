@@ -40,6 +40,15 @@ BMP is a decentralized team of **25+ professionals** spanning across Russia, the
 
 ---
 
+
+
+## 👑 Leadership & Core Development
+
+* **Founder & CEO / Lead Developer:** **Maxim** ([@BarMaxx](https://github.com/BarMaxx))  
+  *Directing studio operations, project architecture, and core development for over 4.5 years within the Minecraft modding and game development industry.*
+
+---
+
 ## 📑 Useful Information & Links
 
 ### 👥 Main Community Hubs
