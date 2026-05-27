@@ -52,22 +52,22 @@ BMP is a decentralized team of **25+ professionals** spanning across Russia, the
 ## 📑 Useful Information & Links
 
 ### 👥 Main Community Hubs
-* **Discord** — Our main community hub for chats, updates, and tech support.
-* **Reddit** — Our international platform for discussions and community feedback.
-* **Telegram** — Official chat to ask questions, share feedback, and chat.
-* **VK** — Our official VK community for regional news and announcements.
+* **[Discord](https://discord.gg/9GWKBVw3Ty)** — Our main community hub for chats, updates, and tech support.
+* **[Reddit](https://www.reddit.com/r/BMProjects/)** — Our international platform for discussions and community feedback.
+* **[Telegram](https://t.me/BMProjects)** — Official chat to ask questions, share feedback, and chat.
+* **[VK](https://vk.com/bmprojects)** — Our official VK community for regional news and announcements.
 
 ### 🎬 Media & Content
-* **YouTube** — Project showcases, trailers, and development insights.
-* **TikTok** — Short previews, teasers, and fun moments.
+* **[YouTube](https://www.youtube.com/@TheBMProjects)** — Project showcases, trailers, and development insights.
+* **[TikTok](https://www.tiktok.com/@bmprojectsoff)** — Short previews, teasers, and fun moments.
 
 ### 🎮 Project Platforms
-* **CurseForge** — Download and easily install our projects.
-* **Modrinth** — A fast and modern platform to access our mods and modpacks.
+* **[CurseForge](https://www.curseforge.com/members/thebarmaxx/projects)** — Download and easily install our projects.
+* **[Modrinth](https://modrinth.com/user/BarMaxx)** — A fast and modern platform to access our mods and modpacks.
 
 ### ❣️ Support the Studio
-* **Patreon** — Subscribe to unlock exclusive perks and support our development.
-* **Boosty** — Subscribe to unlock exclusive perks and support our development (Regional).
+* **[Patreon](https://www.patreon.com/c/BMProjectsMinecraft)** — Subscribe to unlock exclusive perks and support our development.
+* **[Boosty](https://boosty.to/barmaxx)** — Subscribe to unlock exclusive perks and support our development (Regional).
 
 ### ❗️ Other
 * **Email** — `bmpland.main@gmail.com` or `bmpland.main@mail.ru`
