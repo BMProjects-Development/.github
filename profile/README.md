@@ -52,9 +52,9 @@ BMP is a decentralized team of **25+ professionals** spanning across Russia, the
 ## 📑 Useful Information & Links
 
 ### 👥 Main Community Hubs
+* **[Telegram](https://t.me/BMProjects)** — Our main community hub with the faster news.
 * **[Discord](https://discord.gg/9GWKBVw3Ty)** — Our main community hub for chats, updates, and tech support.
 * **[Reddit](https://www.reddit.com/r/BMProjects/)** — Our international platform for discussions and community feedback.
-* **[Telegram](https://t.me/BMProjects)** — Official chat to ask questions, share feedback, and chat.
 * **[VK](https://vk.com/bmprojects)** — Our official VK community for regional news and announcements.
 
 ### 🎬 Media & Content
