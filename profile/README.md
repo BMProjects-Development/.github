@@ -18,7 +18,7 @@ By leveraging a **"Living Service"** model, we continuously evolve our projects 
 | **[Endless Rise: Remastered](https://github.com/BMProjects-Development/Endless-Rise-Remastered)** | Live & Operating | Minecraft 1.16.5 Forge | A massive hit that reached #1 in the "Hidden Gem" category with **97,000+ downloads**. |
 | **[Gloomy Rise](https://github.com/BMProjects-Development/Gloomy-Rise)** | Live & Operating | Minecraft 1.16.5 Forge | TechnoMagical Hardcore and RPG Modpack. |
 | **[Sacred Logistics](https://github.com/BMProjects-Development/Sacred-Logistics)** | Live & Operating | Minecraft 1.16.5 Forge | Modpack about Technology progression with unique mechanics. |
-| <a href="./PROJECTS_LIST.md"><b>**Other Projects**</b></a> | 🔮 Planning & Dev | Minecraft & Hytale | We are constantly expanding our ecosystem with new immersive worlds. |
+| <a href="./PROJECTS_LIST.md"><b>**Other Projects**</b></a> | Planning & Dev | Minecraft & Hytale | We are constantly expanding our ecosystem with new immersive worlds. |
 
 ---
 
