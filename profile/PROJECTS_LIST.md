@@ -11,12 +11,12 @@ This document contains a comprehensive list of all released and active projects 
 | **Melody of Utopia** | Minecraft 1.21.1 NeoForge | Flagship project (Coming Soon). A complete overhaul of the standard gameplay experience with unique mechanics developed over 10 months. |
 | **Endless Rise: Remastered** | Minecraft 1.16.5 Forge | High-tech evolutionary progression pack from primitive eras to space. Features over 600 quests and custom tech trees. Reached #1 in the Hidden Gem category. |
 | **Gloomy Rise** | Minecraft 1.16.5 Forge | Expert Techno-Magical Hardcore and RPG modpack featuring 550+ quests and over 500 modified recipes. |
-| **Sacred Logistics** | Minecraft 1.19.2 Forge / 1.16.5 Forge | Automation and logistics-focused progression modpack with 650+ quests and 300+ custom altered recipes. |
-| **Technology Valley** | Minecraft Forge | Advanced technology integration modpack combined with Magic, RPG systems, and tailored custom mechanics. |
-| **Timeless Magic** | Minecraft Forge | Progression-driven Magic modpack including questlines, altered recipes, and unique magical mechanics. |
-| **Classic Remake** | Minecraft Forge | Vanilla+ enhancement modpack designed to upgrade standard gameplay with new items and optimized content. |
-| **MagicalLights** | Minecraft Forge | Magic-focused adventure pack utilizing custom recipes and unique storytelling quest mechanics. |
-| **Fools Rise** | Minecraft Forge | Satirical seasonal adventure modpack featuring unique progression loops and custom mechanics. |
+| **Sacred Logistics** | Minecraft 1.19.2 Forge | Automation and logistics-focused progression modpack with 650+ quests and 300+ custom altered recipes. |
+| **Technology Valley** | Minecraft 1.21.1 NeoForge | Advanced technology integration modpack combined with Magic, RPG systems, and tailored custom mechanics. |
+| **Timeless Magic** | Minecraft 1.20.1 Fabric | Progression-driven Magic modpack including questlines, altered recipes, and unique magical mechanics. |
+| **Classic Remake** | Minecraft 1.19.2 Forge | Vanilla+ enhancement modpack designed to upgrade standard gameplay with new items and optimized content. |
+| **MagicalLights** | Minecraft 1.16.5 Forge | Magic-focused adventure pack utilizing custom recipes and unique storytelling quest mechanics. |
+| **Fools Rise** | Minecraft 1.21.1 NeoForge | Satirical seasonal adventure modpack featuring unique progression loops and custom mechanics. |
 
 ---
 
