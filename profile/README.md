@@ -36,7 +36,7 @@ By leveraging a **"Living Service"** model, we continuously evolve our projects 
 
 ## International Team
 
-BMP is a decentralized team of **25+ professionals** spanning across Russia, the CIS and Europe. We bring together developers, designers, writers, and sound engineers working via a transparent remote workflow on GitHub.
+BMP is a decentralized team of **20+ professionals** spanning across Russia, the CIS and Europe. We bring together developers, designers, writers, and sound engineers working via a transparent remote workflow on GitHub.
 
 ---
 
