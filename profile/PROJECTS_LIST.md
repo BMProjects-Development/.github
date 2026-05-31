@@ -60,5 +60,5 @@ This document contains a comprehensive list of all released and active projects 
 
 | Project Name | Project Type | Scope of Work |
 | :--- | :--- | :--- |
-| **FTB StoneBlock 4** | Global Localization | Complete translation and structural adaptation of quests, scripts, custom interfaces, and guidebooks into regional languages. |
+| [**FTB StoneBlock 4**](https://github.com/BMProjects-Development/StoneBlock-4-Translate) | Global Localization | Complete translation and structural adaptation of quests, scripts, custom interfaces, and guidebooks into regional languages. |
 | [**Divine Journey 2**](https://github.com/BMProjects-Development/Divine-Journey-2-Translate) | Global Localization | Full complex localization and technical proofreading of an expansive expert-style storyline and quest matrix. |
