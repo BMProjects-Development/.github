@@ -8,7 +8,7 @@ This document contains a comprehensive list of all released and active projects 
 
 | Project Name | Supported Platform / Version | Description |
 | :--- | :--- | :--- |
-| **Melody of Utopia** | Minecraft 1.21.1 NeoForge | Flagship project (Coming Soon). A complete overhaul of the standard gameplay experience with unique mechanics developed over 10 months. |
+| **Melody of Utopia** *(coming soon)* | Minecraft 1.21.1 NeoForge | Flagship project (Coming Soon). A complete overhaul of the standard gameplay experience with unique mechanics developed over 10 months. |
 | [**Endless Rise: Remastered**](https://github.com/BMProjects-Development/Endless-Rise-Remastered) | Minecraft 1.16.5 Forge | High-tech evolutionary progression pack from primitive eras to space. Features over 600 quests and custom tech trees. Reached #1 in the Hidden Gem category. |
 | [**Gloomy Rise**](https://github.com/BMProjects-Development/Gloomy-Rise) | Minecraft 1.16.5 Forge | Expert Techno-Magical Hardcore and RPG modpack featuring 550+ quests and over 500 modified recipes. |
 | [**Sacred Logistics**](https://github.com/BMProjects-Development/Sacred-Logistics) | Minecraft 1.19.2 Forge | Automation and logistics-focused progression modpack with 650+ quests and 300+ custom altered recipes. |
