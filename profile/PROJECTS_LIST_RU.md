@@ -31,6 +31,7 @@
 | [**SeasonHud Tweaks**](https://github.com/BMProjects-Development/SeasonHud-Tweaks) | Косметический / Карты | Аддон, предоставляющий улучшения интерфейса, переопределение конфигураций и косметические оптимизации для мода SeasonHud. |
 | [**Polymorph Artisan Worktables**](https://github.com/BMProjects-Development/Polymorph-Artisan-Worktables) | Утилиты / Совместимость | Мод технической совместимости, обеспечивающий полную поддержку выбора предметов для верстаков Artisan Worktables в среде 1.16.5. |
 | [**Gravestone Curios API Compat Backport**](https://github.com/BMProjects-Development/Gravestone-Curios-API-Compat-Backport) | Утилиты / Совместимость | Бэкпортированный технический мост, устанавливающий структурную совместимость между Gravestone Mod и Curios API для версии 1.16.5. |
+| [**Acoustic**](https://github.com/BMProjects-Development/Acoustic) | Библиотека | Улучшенное воспроизведение звуков на сервере для модов NeoForge. |
 
 ---
 
