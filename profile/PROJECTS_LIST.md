@@ -31,6 +31,7 @@ This document contains a comprehensive list of all released and active projects 
 | [**SeasonHud Tweaks**](https://github.com/BMProjects-Development/SeasonHud-Tweaks) | Cosmetic / Map Utility | Addon providing UI improvements, configuration overrides, and cosmetic optimization fixes for the SeasonHud mod. |
 | [**Polymorph Artisan Worktables**](https://github.com/BMProjects-Development/Polymorph-Artisan-Worktables) | Utility / Compatibility | Backend compatibility mod providing full item selection support for Artisan Worktables within 1.16.5 environments. |
 | [**Gravestone Curios API Compat Backport**](https://github.com/BMProjects-Development/Gravestone-Curios-API-Compat-Backport) | Utility / Compatibility | Backported technical bridge establishing structural compatibility between the Gravestone Mod and Curios API for version 1.16.5. |
+| [**Acoustic**](https://github.com/BMProjects-Development/Acoustic) | Library | Server-driven audio playback for NeoForge mods. |
 
 ---
 
