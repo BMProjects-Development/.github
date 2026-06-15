@@ -42,8 +42,8 @@ This document contains a comprehensive list of all released and active projects 
 | [**BMP Translations**](https://github.com/BMProjects-Development/BMP-Translations) | Mod Support / Localization | Centralized global resource package providing asset localizations and modified language support files for various Minecraft modifications. |
 | **BMP Dark Theme** | Visual Modification | UI modification asset pack altering interface components to establish an optimized clean dark theme. |
 | **Endless Rise Textures** | Visual / Audio Support | Custom visual textures and specialized audio files configured exclusively for the immersion of the Endless Rise ecosystem. |
-| **Gloomy Rise Textures** | Resource Addon | Dedicated internal asset package providing custom textures for modified mechanics in the Gloomy Rise modpack. |
-| **Sacred Logistics Textures** | Resource Addon | Dedicated internal asset package providing custom textures for modified mechanics in the Sacred Logistics modpack. |
+| **Gloomy Rise Textures** | Visual Modification | Dedicated internal asset package providing custom textures for modified mechanics in the Gloomy Rise modpack. |
+| **Sacred Logistics Textures** | Visual Modification | Dedicated internal asset package providing custom textures for modified mechanics in the Sacred Logistics modpack. |
 
 ---
 
