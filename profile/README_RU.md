@@ -15,7 +15,7 @@
 | Проект | Статус | Платформа / Версии | Описание |
 | :--- | :--- | :--- | :--- |
 | **Melody of Utopia** *(скоро)* | В активной разработке | Minecraft 1.21.1 NeoForge | Наш флагманский проект, создающийся на протяжении более 10 месяцев. Полная пересборка игрового опыта. |
-| **[Endless Rise: Remastered](https://github.com/BMProjects-Development/Endless-Rise-Remastered)** | Запущено и функционирует | Minecraft 1.16.5 Forge | Настоящий хит, занявший Топ-1 в категории "Hidden Gem" с более чем **97,000+ скачиваний**. |
+| **[Endless Rise: Remastered](https://github.com/BMProjects-Development/Endless-Rise-Remastered)** | Запущено и функционирует | Minecraft 1.16.5 Forge | Настоящий хит, занявший Топ-1 в категории "Hidden Gem" с более чем **100 000+ скачиваний**. |
 | **[Gloomy Rise](https://github.com/BMProjects-Development/Gloomy-Rise)** | Запущено и функционирует | Minecraft 1.16.5 Forge | Техномагическая хардкорная и РПГ сборка. |
 | **[Sacred Logistics](https://github.com/BMProjects-Development/Sacred-Logistics)** | Запущено и функционирует | Minecraft 1.16.5 Forge | Модпак о технологическом прогрессе с уникальными механиками. |
 | <a href="./PROJECTS_LIST_RU.md"><b>**Другие проекты**</b></a> | Планирование и разработка | Minecraft и Hytale | Мы постоянно расширяем нашу экосистему и смотрим в будущее новых платформ. |
