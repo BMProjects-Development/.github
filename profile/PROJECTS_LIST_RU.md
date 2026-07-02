@@ -63,3 +63,4 @@
 | :--- | :--- | :--- |
 | [**FTB StoneBlock 4**](https://github.com/BMProjects-Development/StoneBlock-4-Translate) | Глобальная локализация | Полный перевод и структурная адаптация квестов, скриптов, кастомных интерфейсов и руководств на региональные языки. |
 | [**Divine Journey 2**](https://github.com/BMProjects-Development/Divine-Journey-2-Translate) | Глобальная локализация | Полная комплексная локализация и техническая вычитка обширной сюжетной линии и квестовой матрицы экспертного стиля. |
+| [**FTB Architect's Exodus**](https://github.com/BMProjects-Development/FTB-Presents-Architect-s-Exodus-Translate) | Глобальная локализация | Полный перевод и структурная адаптация квестов, скриптов, кастомных интерфейсов и руководств на региональные языки. |
